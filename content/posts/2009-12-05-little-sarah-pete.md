@@ -18,18 +18,18 @@ Every year, Holland celebrates Sinterklaas, a man with robes and a high hat who 
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://www.sarah-blevins.com/wp-content/uploads/2009/12/100_1155.jpg'><img width="150" height="150" src="http://www.sarah-blevins.com/wp-content/uploads/2009/12/100_1155-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/images/2009/12/100_1155.jpg'><img width="150" height="150" src="/images/2009/12/100_1155-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.sarah-blevins.com/wp-content/uploads/2009/12/100_1157.jpg'><img width="150" height="150" src="http://www.sarah-blevins.com/wp-content/uploads/2009/12/100_1157-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/images/2009/12/100_1157.jpg'><img width="150" height="150" src="/images/2009/12/100_1157-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://www.sarah-blevins.com/wp-content/uploads/2009/12/100_1158.jpg'><img width="150" height="150" src="http://www.sarah-blevins.com/wp-content/uploads/2009/12/100_1158-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/images/2009/12/100_1158.jpg'><img width="150" height="150" src="/images/2009/12/100_1158-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://www.sarah-blevins.com/wp-content/uploads/2009/12/100_1156.jpg'><img width="150" height="150" src="http://www.sarah-blevins.com/wp-content/uploads/2009/12/100_1156-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/images/2009/12/100_1156.jpg'><img width="150" height="150" src="/images/2009/12/100_1156-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

@@ -16,9 +16,9 @@ tags:
 ---
 Sarah and Ryan sitting on their tractors.
 
-[<img src="http://www.sarah-blevins.com/wp-content/uploads/2009/04/l-1600-1200-2b3a0185-6cfb-43ea-9b84-f168ead2b3e8.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" />][1]
+[<img src="/images/2009/04/l-1600-1200-2b3a0185-6cfb-43ea-9b84-f168ead2b3e8.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" />][1]
 
-[<img src="http://www.sarah-blevins.com/wp-content/uploads/2009/04/l-1600-1200-224cf550-0d12-45a1-a285-d609ced173a1.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" />][2]
+[<img src="/images/2009/04/l-1600-1200-224cf550-0d12-45a1-a285-d609ced173a1.jpeg" alt="" width="300" height="225" class="alignnone size-full wp-image-364" />][2]
 
- [1]: http://www.sarah-blevins.com/wp-content/uploads/2009/04/l-1600-1200-2b3a0185-6cfb-43ea-9b84-f168ead2b3e8.jpeg
- [2]: http://www.sarah-blevins.com/wp-content/uploads/2009/04/l-1600-1200-224cf550-0d12-45a1-a285-d609ced173a1.jpeg
+ [1]: /images/2009/04/l-1600-1200-2b3a0185-6cfb-43ea-9b84-f168ead2b3e8.jpeg
+ [2]: /images/2009/04/l-1600-1200-224cf550-0d12-45a1-a285-d609ced173a1.jpeg

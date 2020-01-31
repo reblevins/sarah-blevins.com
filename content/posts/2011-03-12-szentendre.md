@@ -14,8 +14,8 @@ tags:
   - budapest
 
 ---
-<figure id="attachment_257" aria-describedby="caption-attachment-257" style="width: 150px" class="wp-caption alignright">[<img class="size-thumbnail wp-image-257 " title="Caught running" src="http://www.sarah-blevins.com/wp-content/uploads/2011/05/IMG_0731-150x150.jpg" alt="" width="150" height="150" />][1]<figcaption id="caption-attachment-257" class="wp-caption-text">I was actually taking a picture of the cute, little store and managed to get this cool shot of Sarah</figcaption></figure> 
+<figure id="attachment_257" aria-describedby="caption-attachment-257" style="width: 150px" class="wp-caption alignright">[<img class="size-thumbnail wp-image-257 " title="Caught running" src="/images/2011/05/IMG_0731-150x150.jpg" alt="" width="150" height="150" />][1]<figcaption id="caption-attachment-257" class="wp-caption-text">I was actually taking a picture of the cute, little store and managed to get this cool shot of Sarah</figcaption></figure> 
 
 We went to a little village called Szentendre for a day and I snapped this pic.
 
- [1]: http://www.sarah-blevins.com/wp-content/uploads/2011/05/IMG_0731.jpg
+ [1]: /images/2011/05/IMG_0731.jpg

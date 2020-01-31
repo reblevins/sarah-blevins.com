@@ -13,4 +13,4 @@ Sarah was born today at 1:49AM. She weighs 7lbs, 7 oz (3500 grams) and is 20 inc
 
 The contractions started yesterday around 6PM, and Jolanda went into labor around 1AM.
 
-<a href="http://sarah-blevins.com/images/birth-announcement.jpg" target="_blank">View the birth announcement here</a>.
+<a href="/images/birth-announcement.jpg" target="_blank">View the birth announcement here</a>.

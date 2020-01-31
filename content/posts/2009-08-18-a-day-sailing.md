@@ -17,14 +17,14 @@ Jeff Fountain, YWAM&#8217;s European Director, rented a sailboat for a week and 
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.sarah-blevins.com/wp-content/uploads/2009/08/sany0090.jpg'><img width="150" height="150" src="http://www.sarah-blevins.com/wp-content/uploads/2009/08/sany0090-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-114" /></a>
+    <a href='/images/2009/08/sany0090.jpg'><img width="150" height="150" src="/images/2009/08/sany0090-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-114" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-114'> Philip, Sarah and Lisa in a rubber boat </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://www.sarah-blevins.com/wp-content/uploads/2009/08/p8180330_2.jpg'><img width="150" height="150" src="http://www.sarah-blevins.com/wp-content/uploads/2009/08/p8180330_2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-115" /></a>
+    <a href='/images/2009/08/p8180330_2.jpg'><img width="150" height="150" src="/images/2009/08/p8180330_2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-115" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-115'> Captain Sarah </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.sarah-blevins.com/wp-content/uploads/2009/08/p8180360.jpg'><img width="150" height="150" src="http://www.sarah-blevins.com/wp-content/uploads/2009/08/p8180360-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-116" /></a>
+    <a href='/images/2009/08/p8180360.jpg'><img width="150" height="150" src="/images/2009/08/p8180360-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-2-116" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-2-116'> The Boat </figcaption></figure>
 </div>

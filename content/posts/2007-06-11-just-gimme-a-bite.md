@@ -10,7 +10,7 @@ categories:
 
 ---
 <p align="center">
-  <a href="http://sarah-blevins.com/video/sarah-food-05202007.mov"><img src="http://www.sarah-blevins.com/images/sarah-food-05202007.mov.jpg" /></a><br /> <br /> <a href="http://sarah-blevins.com/video/sarah-smiling.mov">Click on video to download.</a><br /> (1:05 mins. 5.5MB)
+  <a href="http://sarah-blevins.com/video/sarah-food-05202007.mov"><img src="/images/sarah-food-05202007.mov.jpg" /></a><br /> <br /> <a href="http://sarah-blevins.com/video/sarah-smiling.mov">Click on video to download.</a><br /> (1:05 mins. 5.5MB)
 </p>
 
 Sarah is so ready for solid food. As you can see in this cute video, anytime you&#8217;re holding her and eating or drinking something, she wants to take a bite/drink.

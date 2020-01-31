@@ -19,18 +19,18 @@ I was at home with Sarah this morning and decided to take some funny pics with h
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.sarah-blevins.com/wp-content/uploads/2009/03/photo-13.jpg'><img width="150" height="150" src="http://www.sarah-blevins.com/wp-content/uploads/2009/03/photo-13-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-87" /></a>
+    <a href='/images/2009/03/photo-13.jpg'><img width="150" height="150" src="/images/2009/03/photo-13-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-87" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-87'> Wacky!!! </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.sarah-blevins.com/wp-content/uploads/2009/03/photo-15.jpg'><img width="150" height="150" src="http://www.sarah-blevins.com/wp-content/uploads/2009/03/photo-15-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-88" /></a>
+    <a href='/images/2009/03/photo-15.jpg'><img width="150" height="150" src="/images/2009/03/photo-15-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-88" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-88'> Sarah Clown </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.sarah-blevins.com/wp-content/uploads/2009/03/photo-8.jpg'><img width="150" height="150" src="http://www.sarah-blevins.com/wp-content/uploads/2009/03/photo-8-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-89" /></a>
+    <a href='/images/2009/03/photo-8.jpg'><img width="150" height="150" src="/images/2009/03/photo-8-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-89" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-89'> Coneheads! </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.sarah-blevins.com/wp-content/uploads/2009/03/photo-9.jpg'><img width="150" height="150" src="http://www.sarah-blevins.com/wp-content/uploads/2009/03/photo-9-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-90" /></a>
+    <a href='/images/2009/03/photo-9.jpg'><img width="150" height="150" src="/images/2009/03/photo-9-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-1-90" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-90'> Highbrow </figcaption></figure>
 </div>
